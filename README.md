@@ -1,4 +1,4 @@
-# 🔢 Java Loops - Multiplication Table
+# 🔢 Java Loops - Tabla de Multiplicar
 
 ¡Bienvenido al proyecto de la tabla de multiplicar en Java! Este proyecto implementa un programa que genera la tabla de multiplicar de un número entero dado, con límites configurables. Incluye pruebas unitarias exhaustivas para validar la funcionalidad y está diseñado para ayudarte a entender y practicar los bucles en Java.
 
@@ -6,7 +6,7 @@
 
 - 📊 Generación de tablas de multiplicar con límite personalizable
 - 🛡️ Validación de entrada con manejo de errores
-- 🧪 Suite completa de pruebas unitarias (8 casos de prueba)
+- 🧪 Suite completa de pruebas unitarias (9 casos de prueba)
 - 📚 Documentación JavaDoc completa
 - 🎯 Clase principal interactiva para demostración
 - ⚡ Soporte para casos edge (números negativos, cero, límites inválidos)
@@ -55,7 +55,7 @@ List<String> customTable = MultiplicationTable.getMultiplicationTable(3, 7);
 
 ## 🧪 Pruebas
 
-El proyecto incluye 8 pruebas unitarias que cubren:
+El proyecto incluye 9 pruebas unitarias que cubren:
 
 - ✅ Casos normales (números positivos)
 - ✅ Casos edge (cero, uno, números grandes)
